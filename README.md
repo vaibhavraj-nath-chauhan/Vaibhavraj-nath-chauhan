@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey+There+I'm+Vaibhavraj+🤓)][website]
 
-[![Website](https://img.shields.io/website?label=vaibhavrajnath.tech&style=for-the-badge&url=http://vaibhavrajnath.tech/)](http://vaibhavrajnath.tech/)
+[![Website](https://img.shields.io/website?label=vaibhavrajnath.tech&style=for-the-badge&url=http://vaibhavraj.co.in/)](http://vaibhavraj.co.in/)
 [![hackerrank](https://img.shields.io/badge/HackerRank-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)](https://www.hackerrank.com/VRN_Chauhan_05/)<br/>
 
 
@@ -61,7 +61,7 @@
 <br />
 
 
-[website]: http://vaibhavrajnath.tech/
+[website]: https://vaibhavraj.co.in/
 [course]: http://vsCodeHero.com
 [linkedin]: https://www.linkedin.com/in/vaibhavraj-nath-chauhan/
 [hackerrank]: https://www.hackerrank.com/VRN_Chauhan_05
