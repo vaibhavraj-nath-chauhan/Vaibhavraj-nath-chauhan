@@ -1,41 +1,24 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hey+There+I'm+Vaibhavraj+🤓)][website]
 
-[![Website](https://img.shields.io/website?label=vaibhavrajnath.tech&style=for-the-badge&url=http://vaibhavraj.co.in/)](http://vaibhavraj.co.in/)
+[![Website](https://img.shields.io/website?label=vaibhavraj.co.in&style=for-the-badge&url=https%3A%2F%2Fvaibhavraj.co.in%2F)](https://vaibhavraj.co.in/)
 [![hackerrank](https://img.shields.io/badge/HackerRank-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)](https://www.hackerrank.com/VRN_Chauhan_05/)<br/>
 
 
-## I'm a Coder, Student and Developer!!
+## I'm a DevOps Engineer!!
 
-- 🌱 I’m currently learning python
+- ☁️ 4+ years designing, automating, and scaling cloud-native infrastructure across AWS, Azure, and GCP
+- 🏅 5× AWS Certified — Solutions Architect, Developer, Data Engineer, Cloud Practitioner & AI Practitioner
+- ⚙️ Kubernetes, Terraform, CI/CD pipelines, and the monitoring that catches trouble before users notice
+- 🔐 Big on cloud security — IAM, secrets management, and vulnerability scanning baked into every pipeline
 - ⚡ Alexa is always listening to your conversations.
-- 🥅 2022 Goals: Contribute to git-hub more and more 
+- 📄 [Grab my resume](https://vaibhavraj.co.in/vaibhavraj_nath_chauhan_resume.pdf)
 
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Languages and Tools:
-![Languages and Tools](https://skillicons.dev/icons?i=wordpress,vscode,tensorflow,react,qt,ps,mysql,js,java,html,github,git,django,css,cpp,c,azure,atom)
-<!--
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.shields.io/github/followers/lutfilahdzaky?label=GitHub&logo=GitHub&style=for-the-badge" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="WordPress" width="26px" src="wordpress.jpg" />
-
-<br />
-<br />
--->
+![Languages and Tools](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,jenkins,githubactions,py,bash,ts,go,grafana,prometheus,postgres,mysql,redis,mongodb,dynamodb,rabbitmq,nginx,git,linux)
 
 
 ![Vaibharvaj's GitHub States](https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true")
@@ -49,7 +32,7 @@
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://github.com/Vaibhavraj-nath-chauhan/Vaibhavraj-nath-chauhan/blob/master/github-user-contribution.svg#gh-light-mode-only" width="100%">
 <img src="https://github.com/Vaibhavraj-nath-chauhan/Vaibhavraj-nath-chauhan/blob/master/github-user-contribution.svg#gh-dark-mode-only" width="100%">
-  
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -62,8 +45,14 @@
 
 
 [website]: https://vaibhavraj.co.in/
-[course]: http://vsCodeHero.com
 [linkedin]: https://www.linkedin.com/in/vaibhavraj-nath-chauhan/
 [hackerrank]: https://www.hackerrank.com/VRN_Chauhan_05
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Vaibhavraj-nath-chauhan)
+
+A few notes:
+
+- The resume link points to the new vaibhavraj_nath_chauhan_resume.pdf URL on your site — it'll work once you deploy the rename we just did.
+- The skill icons now mirror the resume's stack (cloud platforms, containers, IaC, CI/CD, monitoring, databases). skillicons.dev doesn't have Helm, ArgoCD, or Loki icons, so those are left out.
+- I kept the "learning" bullet out since the resume doesn't say what you're currently learning — happy to add one if you want (Go? something AI-related given the AI Practitioner cert?).
+- The Handshake.gif reference assumes that file still exists in your profile repo, same as before.
