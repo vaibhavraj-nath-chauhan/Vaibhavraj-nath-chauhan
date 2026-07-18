@@ -49,10 +49,3 @@
 [hackerrank]: https://www.hackerrank.com/VRN_Chauhan_05
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Vaibhavraj-nath-chauhan)
-
-A few notes:
-
-- The resume link points to the new vaibhavraj_nath_chauhan_resume.pdf URL on your site — it'll work once you deploy the rename we just did.
-- The skill icons now mirror the resume's stack (cloud platforms, containers, IaC, CI/CD, monitoring, databases). skillicons.dev doesn't have Helm, ArgoCD, or Loki icons, so those are left out.
-- I kept the "learning" bullet out since the resume doesn't say what you're currently learning — happy to add one if you want (Go? something AI-related given the AI Practitioner cert?).
-- The Handshake.gif reference assumes that file still exists in your profile repo, same as before.
